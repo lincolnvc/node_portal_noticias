@@ -8,12 +8,19 @@ Propósito do projeto:
 
 Tecnologia utilizada:
 
-Node JS
+Server Node JS
   - Express
   - EJS
   - Consign
   - Body-Parser
   - Express-Validator
+
+Clients
+  - HTML
+  - CSS
+  - Bootstrap
+  - Ajax
+  - JQuery
 
 Banco de de Dados
   - MySQL
